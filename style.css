@@ -80,3 +80,10 @@ img {
     display: flex;
     align-items: space-between;
 }
+
+.action {
+    background-color: blue;
+    margin: 50px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
