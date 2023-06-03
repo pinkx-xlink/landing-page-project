@@ -70,17 +70,26 @@ h3 {
     display:flex;
     margin:52px;
     gap:75px;
-    width:100px;
-    flex-grow: 1;
+    width:250px;
+    flex: 1 1 200px;
     align-content: space-between;
     list-style-type: none;
     text-align: center;
 }
+.card li {
+    color: red;
+    font-size: 12px;
+}
 
-img {
+
+
+.card img {
     display: flex;
     align-items: space-between;
     margin-bottom:25px;
+    padding:12px;
+    border: 5px solid lightpink;
+    border-radius: 5px;
 }
 
 .middle-text {
