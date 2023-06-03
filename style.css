@@ -11,8 +11,14 @@ padding:0px
     background-color:gray;
 }
 
+.h3 {
+    display: flex;
+
+}
 .img {
     width: 200px;
+    display:flex;
+    justify-content: flex-start;
 }
 .header-links {
     display:flex;
