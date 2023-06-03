@@ -2,9 +2,14 @@
 
 .header {
     display: flex;
-    margin:52px;
+    padding:52px;
     justify-content: flex-start;
     flex-direction:column;
+    background-color:gray;
+}
+
+.img {
+    width: 200px;
 }
 .header-links {
     display:flex;
