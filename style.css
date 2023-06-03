@@ -71,14 +71,16 @@ h3 {
     margin:52px;
     gap:75px;
     width:100px;
-    
+    flex-grow: 1;
     align-content: space-between;
+    list-style-type: none;
+    text-align: center;
 }
-
 
 img {
     display: flex;
     align-items: space-between;
+    margin-bottom:25px;
 }
 
 .middle-text {
