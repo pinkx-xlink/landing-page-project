@@ -119,11 +119,15 @@ h3 {
     flex-direction: column;
 }
 .quote {
-width:300px;
+width:500px;
+text-align: justify;
 }
 .quote-credit {
     display: flex;
     justify-content: flex-end;
+    font-weight: 700;
+    padding-right:100px;
+    align-self: flex-end;
 }
 
 .action {
