@@ -104,6 +104,9 @@ h3 {
     align-content: space-between;
     list-style-type: none;
     text-align: center;
+    width:200px;
+    margin-left:200px;
+    margin-right:200px;
 }
 .card li {
     color: red;
@@ -123,6 +126,7 @@ h3 {
 
 .middle-text {
     background-color: rgb(230, 128, 255);
+    
     padding: 100px;
     display: flex;
     align-items: center;
@@ -130,6 +134,7 @@ h3 {
 }
 .quote {
 width:500px;
+color:rgb(43, 43, 43);
 text-align: justify;
 }
 .quote-credit {
@@ -152,9 +157,7 @@ text-align: justify;
     padding-left:100px;
     padding-right:100px;
 }
-h4 {
-    font-weight:900;
-}
+h4 {  }
 .action button {
     border: 1px solid white;
     border-radius:8px;
