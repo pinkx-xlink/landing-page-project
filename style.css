@@ -81,9 +81,24 @@ img {
     align-items: space-between;
 }
 
+.middle-text {
+    background-color: lightgray;
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.quote {
+width:300px;
+}
+.quote-credit {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .action {
     background-color: blue;
     margin: 50px;
-    border-radius: 15px;
+    border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
 }
