@@ -12,7 +12,7 @@ body {
     padding:52px;
     justify-content: flex-start;
     flex-direction:column;
-    background-color:gray;
+    background-color:rgb(78, 12, 12);
     flex-wrap: wrap;
 }
 
@@ -112,4 +112,14 @@ width:300px;
     margin: 50px;
     border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+    padding: 20px;
+    background-color: rgb(78, 12, 12);
+    color: rgb(236, 223, 223);
 }
