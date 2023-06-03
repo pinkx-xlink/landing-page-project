@@ -112,7 +112,7 @@ h3 {
 }
 
 .middle-text {
-    background-color: lightgray;
+    background-color: rgb(230, 128, 255);
     padding: 100px;
     display: flex;
     align-items: center;
@@ -131,6 +131,11 @@ width:300px;
     margin: 50px;
     border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding:25px;
+    padding-left:100px;
+    padding-right:100px;
 }
 
 .footer {
