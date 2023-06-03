@@ -79,8 +79,6 @@ button {
     margin-left:55px
 }
 
-
-
 .container {
     display: flex;
     flex-direction:column;
@@ -112,8 +110,6 @@ h3 {
     color: rgb(109, 0, 0);
     font-size: 12px;
 }
-
-
 
 .card img {
     display: flex;
@@ -159,7 +155,7 @@ text-align: justify;
     padding-left:100px;
     padding-right:100px;
 }
-h4 {  }
+
 .action button {
     border: 1px solid white;
     border-radius:8px;
