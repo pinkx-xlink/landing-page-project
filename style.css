@@ -2,4 +2,27 @@
 
 .header {
     display: flex;
+    margin:52px;
+    justify-content: flex-start;
+    flex-direction:column;
+}
+.header-links {
+    display:flex;
+    justify-content: flex-end;
+    gap:25px;
+    margin-top:5px;
+}
+
+a {
+    color:red;
+    list-style-type: none;
+}
+
+.content {
+    display: flex;
+    flex-direction:column;
+}
+
+.card {
+    display:flex;
 }
