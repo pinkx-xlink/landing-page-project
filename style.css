@@ -109,7 +109,7 @@ h3 {
     margin-right:200px;
 }
 .card li {
-    color: red;
+    color: rgb(109, 0, 0);
     font-size: 12px;
 }
 
@@ -122,6 +122,8 @@ h3 {
     padding:12px;
     border: 5px solid lightpink;
     border-radius: 5px;
+    /*background-image: linear-gradient(to right, white, maroon); */
+    background-image: radial-gradient(circle, white, rgb(116, 0, 39));
 }
 
 .middle-text {
