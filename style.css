@@ -17,11 +17,27 @@
     gap:25px;
     margin-top:5px;
 }
-
 a {
     color:red;
     list-style-type: none;
 }
+
+.header-left  {
+    display:flex;
+    flex-direction: column;
+    width:250px;
+}
+.header-right {
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+button {
+    width: 75px;
+}
+
+
 
 .content {
     display: flex;
