@@ -16,6 +16,10 @@ body {
     flex-wrap: wrap;
 }
 
+.top {
+    display: flex;
+}
+
 .h3 {
     display: flex;
 
@@ -70,8 +74,8 @@ h3 {
     display:flex;
     margin:52px;
     gap:75px;
-    width:250px;
-    flex: 1 1 200px;
+    
+    
     align-content: space-between;
     list-style-type: none;
     text-align: center;
