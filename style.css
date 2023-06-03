@@ -1,5 +1,8 @@
-*
-
+* {
+box-sizing: border-box;
+margin:0px;
+padding:0px
+}
 .header {
     display: flex;
     padding:52px;
@@ -46,4 +49,14 @@ button {
 
 .card {
     display:flex;
+    margin:52px;
+    gap:75px;
+    width:100px;
+    justify-content: space-between;
+}
+
+
+img {
+    display: flex;
+    align-items: space-between;
 }
